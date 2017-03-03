@@ -1,5 +1,5 @@
 echo $(date) >> tgl.txt
-wget https://www.timeanddate.com/worldclock/ -0 watku.html
+wget www.clocktab.com >> watku.html
 cp waktu.html cobacopy.txt
 
 git commit -am "Test"
