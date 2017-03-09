@@ -1,0 +1,59 @@
+commit 8dae2e86cfac15161f90d280f2c0ba1d9d7ff801
+Author: bryan <m26413126@john.petra.ac.id>
+Date:   Fri Mar 3 15:22:41 2017 +0700
+
+    Try
+
+commit 03549d9f188345932a0b4593b44b6aee1b198b8b
+Author: bryan <m26413126@john.petra.ac.id>
+Date:   Fri Mar 3 15:14:27 2017 +0700
+
+    Test
+
+commit 1c69d4f0c705561f081a33516f5a6d9bdd80762b
+Author: bryan <m26413126@john.petra.ac.id>
+Date:   Fri Mar 3 15:10:02 2017 +0700
+
+    Test
+
+commit 7b52cdf7e78215b11c18529bed49651ebc9164db
+Author: bryan <m26413126@john.petra.ac.id>
+Date:   Fri Mar 3 15:09:26 2017 +0700
+
+    Test
+
+commit 8487948ec37cc7a5a98c32bf535aa979c7a67874
+Author: bryan <m26413126@john.petra.ac.id>
+Date:   Fri Mar 3 15:09:04 2017 +0700
+
+    Test
+
+commit d3582347e92ce65cebe81d4d065c1ca0230c0363
+Author: bryan <m26413126@john.petra.ac.id>
+Date:   Fri Mar 3 15:05:51 2017 +0700
+
+    Try
+
+commit 51d484bc52a5efadcd65b45bf6b326e6876ccfc2
+Author: bryan <m26413126@john.petra.ac.id>
+Date:   Wed Mar 1 10:30:19 2017 +0700
+
+    coba ssh
+
+commit bae51575d5d67ce8e022985510a3f01ecf6757a2
+Author: bryan <m26413126@john.petra.ac.id>
+Date:   Wed Mar 1 09:58:40 2017 +0700
+
+    1 maret 2017
+
+commit 451f5b49ddbedaea70a82ff9d43b300f54a98b8e
+Author: bryan <m26413126@john.petra.ac.id>
+Date:   Wed Mar 1 09:51:13 2017 +0700
+
+    modify readme
+
+commit 16d888524526ecb05b3fc83a2e0d9f4c67cd3fa6
+Author: bryanliem <m26413126@john.petra.ac.id>
+Date:   Wed Mar 1 09:31:33 2017 +0700
+
+    Initial commit
