@@ -1,5 +1,10 @@
-echo $(date) >> tgl.txt
+#!/usr/bin/python
 
-wget https://www.timeanddate.com/worldclock/indonesia/jakarta waktu.html
+temp = " coba "
+temp2 = 1
 
-cp waktu.html cobacopy.txt
+while temp2 <= 5:
+   print (temp2)
+   print (temp,temp2)
+   temp2 += 1
+
