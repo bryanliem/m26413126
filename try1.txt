@@ -1,8 +1,5 @@
-coba cat 
-coba sort
-asd
-testing
-1
-2
-3
+#!/usr/bin/python
+import time;  # This is required to include time module.
 
+ticks = time.time()
+print "ticks",ticks
