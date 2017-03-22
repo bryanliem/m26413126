@@ -1,19 +1,12 @@
 #!/usr/bin/python
+import sys
 
-var1 = 100
-if var1:
-   print "1 - Got a true expression value"
-   print var1
-else:
-   print "1 - Got a false expression value"
-   print var1
-
-var2 = 0
-if var2:
-   print "2 - Got a true expression value"
-   print var2
-else:
-   print "2 - Got a false expression value"
-   print var2
-
-print "Good bye!"
+  if speed >= 80:
+    print 'License and registration please'
+    if mood == 'terrible' or speed >= 100:
+      print 'You have the right to remain silent.'
+    elif mood == 'bad' or speed >= 90:
+      print "I'm going to have to write you a ticket."
+      write_ticket()
+    else:
+      print "Let's try to keep it under 80 ok?"
