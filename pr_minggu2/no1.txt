@@ -1,0 +1,1 @@
+untuk switch virtual console tekan ctrl+alt+f2-f7

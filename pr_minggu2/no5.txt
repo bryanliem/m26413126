@@ -1,0 +1,3 @@
+/usr/share/doc
+/usr/share/doc/
+basen	/u	sh	do	

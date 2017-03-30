@@ -1,0 +1,5 @@
+nano $HOME/.bashrc
+alias m="cat /etc/passwd"
+$HOME/.bashrc
+alias m
+m

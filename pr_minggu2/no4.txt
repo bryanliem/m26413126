@@ -1,0 +1,5 @@
+$ cat /etc/passwd
+$ ls $HOME
+$ date
+$HOME
+$ date +%D
