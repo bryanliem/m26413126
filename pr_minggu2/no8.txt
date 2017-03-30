@@ -1,0 +1,4 @@
+$ echo $HOSTNAME
+$ echo $USERNAME
+$ echo $SHELL
+$ echo $HOME
