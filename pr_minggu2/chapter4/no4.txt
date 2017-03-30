@@ -1,0 +1,1 @@
+$ cp -ra /usr/share/doc/initscripts*/ ~/projects/

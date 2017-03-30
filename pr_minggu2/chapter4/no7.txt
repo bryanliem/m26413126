@@ -1,0 +1,1 @@
+$ mv projects/house{3,4} projects/houses/doors/

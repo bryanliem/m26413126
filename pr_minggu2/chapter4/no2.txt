@@ -1,0 +1,7 @@
+$ cd
+$ mkdir projects/houses
+$ touch /home/joe/houses/bungalow.txt
+$ mkdir $HOME/projects/houses/doors/
+$ touch $HOME/projects/houses/doors/bifold.txt
+$ mkdir -p $HOME/projects/outdoors/vegetation/
+$ touch projects/outdoors/vegetation/landscape.txt
