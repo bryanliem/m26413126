@@ -1,0 +1,14 @@
+Perbedaan Locate dan Find
+Locate Menggunakan Data Base Seperti mencari sebuah file dan letak file tersebut
+Sedangkan Find Tidak perlu Data Base
+
+Contoh:
+Cara menemukan file yang depannya "as" dari suatu direktori tertentu
+
+Syntax : Find -name as*
+
+Bagaimana caranya untuk menemukan file file yang memiliki nama text.txt 
+Syntax: (untuk locate)
+locate text.txt
+
+
